@@ -1,0 +1,9 @@
+{
+	"name": "olympic-data-factory2",
+	"location": "koreacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f56771e1-6ab2-41f7-8d7a-4b318cd767ce",
+		"tenantId": "fff60297-f259-42c2-a190-318d4e72a231"
+	}
+}
